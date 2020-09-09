@@ -16,7 +16,7 @@ $ pip install mechanize requests bs4 futures
 
 $ git clone https://github.com/NoobHackersCOM/MBF
 
-$ cd mbf
+$ cd MBF
 
 $ python mbf.py
 
