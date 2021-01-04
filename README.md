@@ -1,6 +1,8 @@
 # MBF Hack Facebook Terbaru
 
-Cara install
+Script MBF login menggunakan cookies anti check points untuk hack akun Facebook.
+
+# Cara install
 
 $ pkg update && pkg upgrade
 
@@ -23,3 +25,7 @@ $ python mbf.py
 # Official Web
 
 NoobHackers.COM
+
+# Bitcoin Walet
+
+396bn2hWgkfpwh8WKkSXqLbZtuhFDmGkwG
